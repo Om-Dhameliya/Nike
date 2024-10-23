@@ -1,7 +1,6 @@
 $('.section3').owlCarousel({
     loop:true,
     dotsEach:true,
-    // rtl:true,
     autoplay:true,
     autoplaySpeed:3000,
     smartSpeed:2000,
